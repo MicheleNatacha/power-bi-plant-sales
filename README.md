@@ -2,6 +2,10 @@
 
 <b>Inspiration</b>: This dashboard was inspired by the work of <a href="https://www.linkedin.com/in/mo-chen1/">Mo Chen</a>'s wife, who is also a professional with many years of experience in the field.
 
+## Sneak peek
+![image](https://github.com/user-attachments/assets/83ebe82a-2bf6-4fb0-835b-095b871268eb)
+
+
 ## Overview
 This Power BI dashboard analyzes key metrics such as sales, quantity and gross profit, across different countries. It offers interactive visualizations, dynamic titles, and drill-down functionality to help you dive deep into the data.
 

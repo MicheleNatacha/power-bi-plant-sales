@@ -7,7 +7,7 @@
 
 
 ## Overview
-This Power BI dashboard analyzes key metrics such as sales, quantity and gross profit, across different countries. It offers interactive visualizations, dynamic titles, and drill-down functionality to help you dive deep into the data.
+This Power BI dashboard analyzes key metrics such as sales, quantity and gross profit, across different countries. It offers interactive visualizations, dynamic titles, and drill-down functionality to help you dive deep into the data. (The dataset is attached)
 
 ## Key Features
 -Interactive Visuals: Among other visuals, explore sales trends, profitability segmentation, and performance across countries.

@@ -10,9 +10,9 @@
 This Power BI dashboard analyzes key metrics such as sales, quantity and gross profit, across different countries. It offers interactive visualizations, dynamic titles, and drill-down functionality to help you dive deep into the data. (The dataset is attached)
 
 ## Key Features
--Interactive Visuals: Among other visuals, explore sales trends, profitability segmentation, and performance across countries.
--Drill-Down: Zoom into the data from yearly to monthly views and analyze specific countries or products contributing to performance.
--Dynamic Titles: Titles change based on slicer selections for a more intuitive experience.
+-Interactive Visuals: Among other visuals, explore sales trends, profitability segmentation, and performance across countries. <br >
+-Drill-Down: Zoom into the data from yearly to monthly views and analyze specific countries or products contributing to performance.<br >
+-Dynamic Titles: Titles change based on slicer selections for a more intuitive experience.<br >
 -DAX Calculations: Includes advanced DAX measures such as PYTD, YTD, SWITCH, and custom date hierarchies.
 
 ## Business Values
